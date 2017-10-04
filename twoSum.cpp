@@ -26,6 +26,5 @@ int main()
     Solution s;
     vector<int> arr = s.twoSum(nums, n);
     cout<<arr[0]<<'\t'<<arr[1];
-    
     return 0;
 }

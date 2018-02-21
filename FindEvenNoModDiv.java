@@ -25,10 +25,10 @@ public class FindEvenNoModDiv {
 			System.out.println("its: "+checkOddEven(ch));
 			
 			//another way to do it is using bitwise operator
-			if((num & 1) != 0)
-				System.out.println("odd");
-			else 
-				System.out.println("even");
+			//if((num & 1) != 0)
+			//	System.out.println("odd");
+			//else 
+			//	System.out.println("even");
 		}
 	}
 
